@@ -3,6 +3,11 @@
 This is BACKEND and FRONT for my video channel
 
 - [My model](https://mongoosejs.com/docs/index.html)
+- [Git Ignore Generators ] (https://mrkandreev.name/snippets/gitignore-generator/#Node)
+
+select node and press create. Copy the contents and paste it in .gitignore file
+
+- install nodemon
 
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
