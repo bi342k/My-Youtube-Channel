@@ -14,7 +14,6 @@ git add README.md
 git branch -m master main
 git commit -m "first commit"
 git remote add origin https://github.com/bi342k/My-Youtube-Channel
-git push -u origin main
 …or push an existing repository from the command line
 
 git remote add origin https://github.com/bi342k/My-Youtube-Channel
