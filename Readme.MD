@@ -5,10 +5,13 @@ This is BACKEND and FRONT for my video channel
 - [My model](https://mongoosejs.com/docs/index.html)
 - [Git Ignore Generators ] (https://mrkandreev.name/snippets/gitignore-generator/#Node)
 
-select node and press create. Copy the contents and paste it in .gitignore file
+# select node and press create. Copy the contents and paste it in .gitignore file
 
 - install nodemon
+- install prettier and setup its setting
+- install mongoose, dotenv and express
 
+========================================================================
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
 …or create a new repository on the command line
